@@ -1,10 +1,11 @@
-# ClipBoard Website
+# LoopStudio Website
 
 This is the Responsive Landing page of the Loop-Studio website from Frontend Mentor Challenge.
 
 I designed this Responsive landing page using HTML, CSS, TailwindCSS and JavaScript
 
 Deployed to Vercel at:
+https://loopstudio-website.vercel.app/
 
 ## How to use the Project
 

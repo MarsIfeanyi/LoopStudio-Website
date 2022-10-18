@@ -1,6 +1,6 @@
 # LoopStudio Website
 
-This is the Responsive Landing page of the Loop-Studio website from Frontend Mentor Challenge.
+This is the Responsive Landing page of the Loop-Studio website from the [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw)
 
 I designed this Responsive landing page using HTML, CSS, TailwindCSS and JavaScript
 
